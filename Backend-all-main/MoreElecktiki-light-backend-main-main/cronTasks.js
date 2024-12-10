@@ -1,5 +1,4 @@
 
-
 const { uploadProductsByFavouriteLight } = require('./uploads/favouriteLightUpload');
 const { uploadProductsByKinkLight } = require('./uploads/kinklightUpload');
 const { uploadProductsByLightStar } = require('./uploads/lightStarUpload');
